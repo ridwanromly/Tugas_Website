@@ -1,0 +1,77 @@
+*, html, body {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	display: inline-block;
+}
+
+.container {
+	width: 100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.logo {
+	padding-left: 100px;
+}
+
+.logo img {
+	width: 150px;
+	background-color: white;
+}
+
+.unindra {
+	margin-left: 200px;
+	text-align: center;
+	width: 600px;
+}
+
+.unindra p i {
+	font-size: 20px;
+}
+
+hr {
+	margin: auto;
+	width: 1200px;
+	border: 3px solid darkblue;
+}
+
+.main {
+	width: 800px;
+	margin-left: 300px;
+	font-weight: bold;
+}
+
+.main form h2 {
+	text-decoration-line: underline;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+table {
+	margin: auto;
+}
+
+table tr td {
+	padding: 5px 10px;
+}
+
+.input {
+	margin-left: 50%;
+}
+
+.input input {
+	padding: 10px;
+	color: white;
+}
+
+#simpan {
+	background-color: green;
+}
+
+#batal {
+	background-color: red;
+}
